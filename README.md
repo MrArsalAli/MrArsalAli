@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://www.facebook.com/arsalan.ali.513080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsalan ali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arsalan-ali-5816ab321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkhan432" height="30" width="40" /></a>
-<a href="mailto:arsalan@example.com?subject=Let's%20Work%20Together&body=Hi%20Arsalan,"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkhan432" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
